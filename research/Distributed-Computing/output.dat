@@ -1,0 +1,1029 @@
+
+p0 is doing local computation at 07:06:28
+p0 requests to enter CS at 07:06:29 for 1 time
+p0 recieves grant from l4 at 07:07:05
+p0 enters CS at 07:07:05
+p0 leaves CS at 07:07:09
+p0 sends release to p4 at 07:07:09
+p0 is doing local computation at 07:07:09
+p0 requests to enter CS at 07:07:11 for 2 time
+p0 recieves grant from l4 at 07:08:21
+p0 enters CS at 07:08:21
+p0 leaves CS at 07:08:22
+p0 sends release to p4 at 07:08:22
+p0 is doing local computation at 07:08:22
+p0 requests to enter CS at 07:08:23 for 3 time
+p0 recieves grant from l4 at 07:09:30
+p0 enters CS at 07:09:30
+p0 leaves CS at 07:09:31
+p0 sends release to p4 at 07:09:31
+p0 is doing local computation at 07:09:31
+p0 requests to enter CS at 07:09:32 for 4 time
+p0 recieves grant from l4 at 07:10:36
+p0 enters CS at 07:10:36
+p0 leaves CS at 07:10:37
+p0 sends release to p4 at 07:10:37
+Messages exchanged by p0 is 32.
+Average Reponse time of p0 is 9.68 secs.
+
+
+p1 is doing local computation at 07:06:28
+p1 requests to enter CS at 07:06:31 for 1 time
+p1 recieves grant from l4 at 07:07:17
+p1 enters CS at 07:07:17
+p1 leaves CS at 07:07:20
+p1 sends release to p4 at 07:07:20
+p1 is doing local computation at 07:07:20
+p1 requests to enter CS at 07:07:23 for 2 time
+p1 recieves grant from l4 at 07:08:28
+p1 enters CS at 07:08:28
+p1 leaves CS at 07:08:33
+p1 sends release to p4 at 07:08:33
+p1 is doing local computation at 07:08:33
+p1 requests to enter CS at 07:08:36 for 3 time
+p1 recieves grant from l4 at 07:09:34
+p1 enters CS at 07:09:34
+p1 leaves CS at 07:09:38
+p1 sends release to p4 at 07:09:38
+p1 is doing local computation at 07:09:38
+p1 requests to enter CS at 07:09:41 for 4 time
+p1 recieves grant from l4 at 07:10:42
+p1 enters CS at 07:10:42
+p1 leaves CS at 07:10:46
+p1 sends release to p4 at 07:10:46
+Messages exchanged by p1 is 32.
+Average Reponse time of p1 is 9.68 secs.
+
+
+p2 is doing local computation at 07:06:28
+p2 requests to enter CS at 07:06:29 for 1 time
+p2 recieves grant from l4 at 07:07:02
+p2 enters CS at 07:07:02
+p2 leaves CS at 07:07:05
+p2 sends release to p4 at 07:07:05
+p2 is doing local computation at 07:07:05
+p2 requests to enter CS at 07:07:08 for 2 time
+p2 recieves grant from l4 at 07:08:18
+p2 enters CS at 07:08:18
+p2 leaves CS at 07:08:21
+p2 sends release to p4 at 07:08:21
+p2 is doing local computation at 07:08:21
+p2 requests to enter CS at 07:08:22 for 3 time
+p2 recieves grant from l4 at 07:09:29
+p2 enters CS at 07:09:29
+p2 leaves CS at 07:09:30
+p2 sends release to p4 at 07:09:30
+p2 is doing local computation at 07:09:30
+p2 requests to enter CS at 07:09:32 for 4 time
+p2 recieves grant from l4 at 07:10:32
+p2 enters CS at 07:10:32
+p2 leaves CS at 07:10:36
+p2 sends release to p4 at 07:10:36
+Messages exchanged by p2 is 32.
+Average Reponse time of p2 is 9.48 secs.
+
+
+p3 is doing local computation at 07:06:28
+p3 requests to enter CS at 07:06:31 for 1 time
+p3 recieves grant from l4 at 07:07:13
+p3 enters CS at 07:07:13
+p3 leaves CS at 07:07:17
+p3 sends release to p4 at 07:07:17
+p3 is doing local computation at 07:07:17
+p3 requests to enter CS at 07:07:19 for 2 time
+p3 recieves grant from l4 at 07:08:27
+p3 enters CS at 07:08:27
+p3 leaves CS at 07:08:28
+p3 sends release to p4 at 07:08:28
+p3 is doing local computation at 07:08:28
+p3 requests to enter CS at 07:08:31 for 3 time
+p3 recieves grant from l4 at 07:09:33
+p3 enters CS at 07:09:33
+p3 leaves CS at 07:09:34
+p3 sends release to p4 at 07:09:34
+p3 is doing local computation at 07:09:34
+p3 requests to enter CS at 07:09:37 for 4 time
+p3 recieves grant from l4 at 07:10:39
+p3 enters CS at 07:10:39
+p3 leaves CS at 07:10:42
+p3 sends release to p4 at 07:10:42
+Messages exchanged by p3 is 32.
+Average Reponse time of p3 is 9.80 secs.
+
+
+p4 is doing local computation at 07:06:28
+Leader l4 recieves p2's request to enter CS at 07:06:29
+Leader l4 recieves p0's request to enter CS at 07:06:29
+p4 forwarded p0's request to enter CS at 07:06:29
+p4 requests to enter CS at 07:06:30 for 1 time
+Leader l4 recieves p3's request to enter CS at 07:06:31
+Leader l4 recieves p1's request to enter CS at 07:06:31
+p4 recieves token from p9 at 07:07:02
+Leader l4 sends grant to p2 at 07:07:02
+p4 recieves p9's request to enter CS at 07:07:02
+Leader l4 recieves release from p2 at 07:07:05
+Leader l4 sends grant to p0 at 07:07:05
+Leader l4 recieves p2's request to enter CS at 07:07:08
+Leader l4 recieves release from p0 at 07:07:09
+p4 enters CS at 07:07:09
+Leader l4 recieves p0's request to enter CS at 07:07:11
+p4 leaves CS at 07:07:13
+Leader l4 sends grant to p3 at 07:07:13
+p4 is doing local computation at 07:07:13
+p4 requests to enter CS at 07:07:14 for 2 time
+Leader l4 recieves release from p3 at 07:07:17
+Leader l4 sends grant to p1 at 07:07:17
+Leader l4 recieves p3's request to enter CS at 07:07:19
+Leader l4 recieves release from p1 at 07:07:20
+p4 sends token to p9 at 07:07:20
+p4 forwarded p3's request to enter CS at 07:07:20
+Leader l4 recieves p1's request to enter CS at 07:07:23
+p4 recieves token from p9 at 07:08:18
+Leader l4 sends grant to p2 at 07:08:18
+p4 recieves p9's request to enter CS at 07:08:18
+Leader l4 recieves release from p2 at 07:08:21
+Leader l4 sends grant to p0 at 07:08:21
+Leader l4 recieves p2's request to enter CS at 07:08:22
+Leader l4 recieves release from p0 at 07:08:22
+p4 enters CS at 07:08:22
+Leader l4 recieves p0's request to enter CS at 07:08:23
+p4 leaves CS at 07:08:27
+Leader l4 sends grant to p3 at 07:08:27
+p4 is doing local computation at 07:08:27
+p4 requests to enter CS at 07:08:28 for 3 time
+Leader l4 recieves release from p3 at 07:08:28
+Leader l4 sends grant to p1 at 07:08:28
+Leader l4 recieves p3's request to enter CS at 07:08:31
+Leader l4 recieves release from p1 at 07:08:33
+p4 sends token to p9 at 07:08:33
+p4 forwarded p3's request to enter CS at 07:08:33
+Leader l4 recieves p1's request to enter CS at 07:08:36
+p4 recieves token from p9 at 07:09:29
+Leader l4 sends grant to p2 at 07:09:29
+p4 recieves p9's request to enter CS at 07:09:29
+Leader l4 recieves release from p2 at 07:09:30
+Leader l4 sends grant to p0 at 07:09:30
+Leader l4 recieves release from p0 at 07:09:31
+p4 enters CS at 07:09:31
+Leader l4 recieves p2's request to enter CS at 07:09:32
+Leader l4 recieves p0's request to enter CS at 07:09:32
+p4 leaves CS at 07:09:33
+Leader l4 sends grant to p3 at 07:09:33
+p4 is doing local computation at 07:09:33
+p4 requests to enter CS at 07:09:34 for 4 time
+Leader l4 recieves release from p3 at 07:09:34
+Leader l4 sends grant to p1 at 07:09:34
+Leader l4 recieves p3's request to enter CS at 07:09:37
+Leader l4 recieves release from p1 at 07:09:38
+p4 sends token to p9 at 07:09:38
+p4 forwarded p3's request to enter CS at 07:09:38
+Leader l4 recieves p1's request to enter CS at 07:09:41
+p4 recieves token from p9 at 07:10:32
+Leader l4 sends grant to p2 at 07:10:32
+p4 recieves p9's request to enter CS at 07:10:32
+Leader l4 recieves release from p2 at 07:10:36
+Leader l4 sends grant to p0 at 07:10:36
+Leader l4 recieves release from p0 at 07:10:37
+p4 enters CS at 07:10:37
+p4 leaves CS at 07:10:39
+Leader l4 sends grant to p3 at 07:10:39
+Leader l4 recieves release from p3 at 07:10:42
+Leader l4 sends grant to p1 at 07:10:42
+Leader l4 recieves release from p1 at 07:10:46
+p4 sends token to p9 at 07:10:46
+Messages exchanged by p4 is 48.
+Average Reponse time of p4 is 9.48 secs.
+
+
+p5 is doing local computation at 07:06:28
+p5 requests to enter CS at 07:06:29 for 1 time
+p5 recieves grant from l9 at 07:06:52
+p5 enters CS at 07:06:52
+p5 leaves CS at 07:06:57
+p5 sends release to p9 at 07:06:57
+p5 is doing local computation at 07:06:57
+p5 requests to enter CS at 07:07:00 for 2 time
+p5 recieves grant from l9 at 07:08:15
+p5 enters CS at 07:08:15
+p5 leaves CS at 07:08:17
+p5 sends release to p9 at 07:08:17
+p5 is doing local computation at 07:08:17
+p5 requests to enter CS at 07:08:18 for 3 time
+p5 recieves grant from l9 at 07:09:26
+p5 enters CS at 07:09:26
+p5 leaves CS at 07:09:28
+p5 sends release to p9 at 07:09:28
+p5 is doing local computation at 07:09:28
+p5 requests to enter CS at 07:09:31 for 4 time
+p5 recieves grant from l9 at 07:10:29
+p5 enters CS at 07:10:29
+p5 leaves CS at 07:10:30
+p5 sends release to p9 at 07:10:30
+Messages exchanged by p5 is 32.
+Average Reponse time of p5 is 9.28 secs.
+
+
+p6 is doing local computation at 07:06:28
+p6 requests to enter CS at 07:06:30 for 1 time
+p6 recieves grant from l9 at 07:07:24
+p6 enters CS at 07:07:24
+p6 leaves CS at 07:07:28
+p6 sends release to p9 at 07:07:28
+p6 is doing local computation at 07:07:28
+p6 requests to enter CS at 07:07:31 for 2 time
+p6 recieves grant from l9 at 07:08:34
+p6 enters CS at 07:08:34
+p6 leaves CS at 07:08:38
+p6 sends release to p9 at 07:08:38
+p6 is doing local computation at 07:08:38
+p6 requests to enter CS at 07:08:41 for 3 time
+p6 recieves grant from l9 at 07:09:42
+p6 enters CS at 07:09:42
+p6 leaves CS at 07:09:47
+p6 sends release to p9 at 07:09:47
+p6 is doing local computation at 07:09:47
+p6 requests to enter CS at 07:09:48 for 4 time
+p6 recieves grant from l9 at 07:10:47
+p6 enters CS at 07:10:47
+p6 leaves CS at 07:10:50
+p6 sends release to p9 at 07:10:50
+Messages exchanged by p6 is 32.
+Average Reponse time of p6 is 9.84 secs.
+
+
+p7 is doing local computation at 07:06:28
+p7 requests to enter CS at 07:06:31 for 1 time
+p7 recieves grant from l9 at 07:07:28
+p7 enters CS at 07:07:28
+p7 leaves CS at 07:07:29
+p7 sends release to p9 at 07:07:29
+p7 is doing local computation at 07:07:29
+p7 requests to enter CS at 07:07:32 for 2 time
+p7 recieves grant from l9 at 07:08:38
+p7 enters CS at 07:08:38
+p7 leaves CS at 07:08:42
+p7 sends release to p9 at 07:08:42
+p7 is doing local computation at 07:08:42
+p7 requests to enter CS at 07:08:45 for 3 time
+p7 recieves grant from l9 at 07:09:47
+p7 enters CS at 07:09:47
+p7 leaves CS at 07:09:50
+p7 sends release to p9 at 07:09:50
+p7 is doing local computation at 07:09:50
+p7 requests to enter CS at 07:09:53 for 4 time
+p7 recieves grant from l9 at 07:10:50
+p7 enters CS at 07:10:50
+p7 leaves CS at 07:10:51
+p7 sends release to p9 at 07:10:51
+Messages exchanged by p7 is 32.
+Average Reponse time of p7 is 10.16 secs.
+
+
+p8 is doing local computation at 07:06:28
+p8 requests to enter CS at 07:06:29 for 1 time
+p8 recieves grant from l9 at 07:07:20
+p8 enters CS at 07:07:20
+p8 leaves CS at 07:07:24
+p8 sends release to p9 at 07:07:24
+p8 is doing local computation at 07:07:24
+p8 requests to enter CS at 07:07:27 for 2 time
+p8 recieves grant from l9 at 07:08:33
+p8 enters CS at 07:08:33
+p8 leaves CS at 07:08:34
+p8 sends release to p9 at 07:08:34
+p8 is doing local computation at 07:08:34
+p8 requests to enter CS at 07:08:37 for 3 time
+p8 recieves grant from l9 at 07:09:38
+p8 enters CS at 07:09:38
+p8 leaves CS at 07:09:42
+p8 sends release to p9 at 07:09:42
+p8 is doing local computation at 07:09:42
+p8 requests to enter CS at 07:09:45 for 4 time
+p8 recieves grant from l9 at 07:10:46
+p8 enters CS at 07:10:46
+p8 leaves CS at 07:10:47
+p8 sends release to p9 at 07:10:47
+Messages exchanged by p8 is 32.
+Average Reponse time of p8 is 9.96 secs.
+
+
+p9 is doing local computation at 07:06:28
+Leader l9 recieves p5's request to enter CS at 07:06:29
+p9 forwarded p5's request to enter CS at 07:06:29
+p9 requests to enter CS at 07:06:29 for 1 time
+p9 recieves p4's request to enter CS at 07:06:29
+Leader l9 recieves p8's request to enter CS at 07:06:29
+Leader l9 recieves p6's request to enter CS at 07:06:30
+Leader l9 recieves p7's request to enter CS at 07:06:31
+p9 recieves token from p14 at 07:06:52
+Leader l9 sends grant to p5 at 07:06:52
+p9 recieves p14's request to enter CS at 07:06:52
+Leader l9 recieves release from p5 at 07:06:57
+p9 enters CS at 07:06:57
+Leader l9 recieves p5's request to enter CS at 07:07:00
+p9 leaves CS at 07:07:02
+p9 sends token to p4 at 07:07:02
+p9 is doing local computation at 07:07:02
+p9 forwarded p5's request to enter CS at 07:07:02
+p9 requests to enter CS at 07:07:03 for 2 time
+p9 recieves token from p4 at 07:07:20
+Leader l9 sends grant to p8 at 07:07:20
+p9 recieves p4's request to enter CS at 07:07:20
+Leader l9 recieves release from p8 at 07:07:24
+Leader l9 sends grant to p6 at 07:07:24
+Leader l9 recieves p8's request to enter CS at 07:07:27
+Leader l9 recieves release from p6 at 07:07:28
+Leader l9 sends grant to p7 at 07:07:28
+Leader l9 recieves release from p7 at 07:07:29
+p9 sends token to p14 at 07:07:29
+p9 forwarded p8's request to enter CS at 07:07:29
+Leader l9 recieves p6's request to enter CS at 07:07:31
+Leader l9 recieves p7's request to enter CS at 07:07:32
+p9 recieves token from p14 at 07:08:15
+Leader l9 sends grant to p5 at 07:08:15
+p9 recieves p14's request to enter CS at 07:08:15
+Leader l9 recieves release from p5 at 07:08:17
+p9 enters CS at 07:08:17
+p9 leaves CS at 07:08:18
+p9 sends token to p4 at 07:08:18
+p9 is doing local computation at 07:08:18
+p9 forwarded p14's request to enter CS at 07:08:18
+Leader l9 recieves p5's request to enter CS at 07:08:18
+p9 requests to enter CS at 07:08:21 for 3 time
+p9 recieves token from p4 at 07:08:33
+Leader l9 sends grant to p8 at 07:08:33
+p9 recieves p4's request to enter CS at 07:08:33
+Leader l9 recieves release from p8 at 07:08:34
+Leader l9 sends grant to p6 at 07:08:34
+Leader l9 recieves p8's request to enter CS at 07:08:37
+Leader l9 recieves release from p6 at 07:08:38
+Leader l9 sends grant to p7 at 07:08:38
+Leader l9 recieves p6's request to enter CS at 07:08:41
+Leader l9 recieves release from p7 at 07:08:42
+p9 sends token to p14 at 07:08:42
+p9 forwarded p6's request to enter CS at 07:08:42
+Leader l9 recieves p7's request to enter CS at 07:08:45
+p9 recieves token from p14 at 07:09:26
+Leader l9 sends grant to p5 at 07:09:26
+p9 recieves p14's request to enter CS at 07:09:26
+Leader l9 recieves release from p5 at 07:09:28
+p9 enters CS at 07:09:28
+p9 leaves CS at 07:09:29
+p9 sends token to p4 at 07:09:29
+p9 is doing local computation at 07:09:29
+p9 forwarded p14's request to enter CS at 07:09:29
+Leader l9 recieves p5's request to enter CS at 07:09:31
+p9 requests to enter CS at 07:09:31 for 4 time
+p9 recieves token from p4 at 07:09:38
+Leader l9 sends grant to p8 at 07:09:38
+p9 recieves p4's request to enter CS at 07:09:38
+Leader l9 recieves release from p8 at 07:09:42
+Leader l9 sends grant to p6 at 07:09:42
+Leader l9 recieves p8's request to enter CS at 07:09:45
+Leader l9 recieves release from p6 at 07:09:47
+Leader l9 sends grant to p7 at 07:09:47
+Leader l9 recieves p6's request to enter CS at 07:09:48
+Leader l9 recieves release from p7 at 07:09:50
+p9 sends token to p14 at 07:09:50
+p9 forwarded p6's request to enter CS at 07:09:50
+Leader l9 recieves p7's request to enter CS at 07:09:53
+p9 recieves token from p14 at 07:10:29
+Leader l9 sends grant to p5 at 07:10:29
+p9 recieves p14's request to enter CS at 07:10:29
+Leader l9 recieves release from p5 at 07:10:30
+p9 enters CS at 07:10:30
+p9 leaves CS at 07:10:32
+p9 sends token to p4 at 07:10:32
+p9 forwarded p5's request to enter CS at 07:10:32
+p9 recieves token from p4 at 07:10:46
+Leader l9 sends grant to p8 at 07:10:46
+Leader l9 recieves release from p8 at 07:10:47
+Leader l9 sends grant to p6 at 07:10:47
+Leader l9 recieves release from p6 at 07:10:50
+Leader l9 sends grant to p7 at 07:10:50
+Leader l9 recieves release from p7 at 07:10:51
+p9 sends token to p14 at 07:10:51
+Messages exchanged by p9 is 56.
+Average Reponse time of p9 is 9.28 secs.
+
+
+p10 is doing local computation at 07:06:28
+p10 requests to enter CS at 07:06:31 for 1 time
+p10 recieves grant from l14 at 07:07:34
+p10 enters CS at 07:07:34
+p10 leaves CS at 07:07:38
+p10 sends release to p14 at 07:07:38
+p10 is doing local computation at 07:07:38
+p10 requests to enter CS at 07:07:39 for 2 time
+p10 recieves grant from l14 at 07:08:47
+p10 enters CS at 07:08:47
+p10 leaves CS at 07:08:48
+p10 sends release to p14 at 07:08:48
+p10 is doing local computation at 07:08:48
+p10 requests to enter CS at 07:08:50 for 3 time
+p10 recieves grant from l14 at 07:09:55
+p10 enters CS at 07:09:55
+p10 leaves CS at 07:09:57
+p10 sends release to p14 at 07:09:57
+p10 is doing local computation at 07:09:57
+p10 requests to enter CS at 07:09:58 for 4 time
+p10 recieves grant from l14 at 07:10:54
+p10 enters CS at 07:10:54
+p10 leaves CS at 07:10:59
+p10 sends release to p14 at 07:10:59
+Messages exchanged by p10 is 32.
+Average Reponse time of p10 is 10.36 secs.
+
+
+p11 is doing local computation at 07:06:28
+p11 requests to enter CS at 07:06:31 for 1 time
+p11 recieves grant from l14 at 07:07:38
+p11 enters CS at 07:07:38
+p11 leaves CS at 07:07:41
+p11 sends release to p14 at 07:07:41
+p11 is doing local computation at 07:07:41
+p11 requests to enter CS at 07:07:44 for 2 time
+p11 recieves grant from l14 at 07:08:48
+p11 enters CS at 07:08:48
+p11 leaves CS at 07:08:53
+p11 sends release to p14 at 07:08:53
+p11 is doing local computation at 07:08:53
+p11 requests to enter CS at 07:08:55 for 3 time
+p11 recieves grant from l14 at 07:09:57
+p11 enters CS at 07:09:57
+p11 leaves CS at 07:10:02
+p11 sends release to p14 at 07:10:02
+p11 is doing local computation at 07:10:02
+p11 requests to enter CS at 07:10:03 for 4 time
+p11 recieves grant from l14 at 07:10:59
+p11 enters CS at 07:10:59
+p11 leaves CS at 07:11:04
+p11 sends release to p14 at 07:11:04
+Messages exchanged by p11 is 32.
+Average Reponse time of p11 is 10.32 secs.
+
+
+p12 is doing local computation at 07:06:28
+p12 requests to enter CS at 07:06:31 for 1 time
+p12 recieves grant from l14 at 07:07:41
+p12 enters CS at 07:07:41
+p12 leaves CS at 07:07:42
+p12 sends release to p14 at 07:07:42
+p12 is doing local computation at 07:07:42
+p12 requests to enter CS at 07:07:44 for 2 time
+p12 recieves grant from l14 at 07:08:53
+p12 enters CS at 07:08:53
+p12 leaves CS at 07:08:55
+p12 sends release to p14 at 07:08:55
+p12 is doing local computation at 07:08:55
+p12 requests to enter CS at 07:08:57 for 3 time
+p12 recieves grant from l14 at 07:10:02
+p12 enters CS at 07:10:02
+p12 leaves CS at 07:10:04
+p12 sends release to p14 at 07:10:04
+p12 is doing local computation at 07:10:04
+p12 requests to enter CS at 07:10:05 for 4 time
+p12 recieves grant from l14 at 07:11:04
+p12 enters CS at 07:11:04
+p12 leaves CS at 07:11:06
+p12 sends release to p14 at 07:11:06
+Messages exchanged by p12 is 32.
+Average Reponse time of p12 is 10.84 secs.
+
+
+p13 is doing local computation at 07:06:28
+p13 requests to enter CS at 07:06:29 for 1 time
+p13 recieves grant from l14 at 07:06:29
+p13 enters CS at 07:06:29
+p13 leaves CS at 07:06:30
+p13 sends release to p14 at 07:06:30
+p13 is doing local computation at 07:06:30
+p13 requests to enter CS at 07:06:32 for 2 time
+p13 recieves grant from l14 at 07:07:42
+p13 enters CS at 07:07:42
+p13 leaves CS at 07:07:45
+p13 sends release to p14 at 07:07:45
+p13 is doing local computation at 07:07:45
+p13 requests to enter CS at 07:07:48 for 3 time
+p13 recieves grant from l14 at 07:08:55
+p13 enters CS at 07:08:55
+p13 leaves CS at 07:08:56
+p13 sends release to p14 at 07:08:56
+p13 is doing local computation at 07:08:56
+p13 requests to enter CS at 07:08:59 for 4 time
+p13 recieves grant from l14 at 07:10:04
+p13 enters CS at 07:10:04
+p13 leaves CS at 07:10:06
+p13 sends release to p14 at 07:10:06
+Messages exchanged by p13 is 32.
+Average Reponse time of p13 is 8.44 secs.
+
+
+p14 is doing local computation at 07:06:28
+Leader l14 recieves p13's request to enter CS at 07:06:29
+p14 recieves p19's request to enter CS at 07:06:29
+Leader l14 sends grant to p13 at 07:06:29
+p14 recieves p9's request to enter CS at 07:06:29
+p14 requests to enter CS at 07:06:30 for 1 time
+Leader l14 recieves release from p13 at 07:06:30
+p14 sends token to p19 at 07:06:30
+p14 forwarded p9's request to enter CS at 07:06:30
+Leader l14 recieves p10's request to enter CS at 07:06:31
+Leader l14 recieves p11's request to enter CS at 07:06:31
+Leader l14 recieves p12's request to enter CS at 07:06:31
+Leader l14 recieves p13's request to enter CS at 07:06:32
+p14 recieves token from p19 at 07:06:52
+p14 sends token to p9 at 07:06:52
+p14 recieves p19's request to enter CS at 07:06:52
+p14 recieves token from p9 at 07:07:29
+p14 enters CS at 07:07:29
+p14 recieves p9's request to enter CS at 07:07:29
+p14 leaves CS at 07:07:34
+Leader l14 sends grant to p10 at 07:07:34
+p14 is doing local computation at 07:07:34
+p14 requests to enter CS at 07:07:36 for 2 time
+Leader l14 recieves release from p10 at 07:07:38
+Leader l14 sends grant to p11 at 07:07:38
+Leader l14 recieves p10's request to enter CS at 07:07:39
+Leader l14 recieves release from p11 at 07:07:41
+Leader l14 sends grant to p12 at 07:07:41
+Leader l14 recieves release from p12 at 07:07:42
+Leader l14 sends grant to p13 at 07:07:42
+Leader l14 recieves p11's request to enter CS at 07:07:44
+Leader l14 recieves p12's request to enter CS at 07:07:44
+Leader l14 recieves release from p13 at 07:07:45
+p14 sends token to p19 at 07:07:45
+p14 forwarded p12's request to enter CS at 07:07:45
+Leader l14 recieves p13's request to enter CS at 07:07:48
+p14 recieves token from p19 at 07:08:15
+p14 sends token to p9 at 07:08:15
+p14 recieves p19's request to enter CS at 07:08:15
+p14 recieves token from p9 at 07:08:42
+p14 enters CS at 07:08:42
+p14 recieves p9's request to enter CS at 07:08:42
+p14 leaves CS at 07:08:47
+Leader l14 sends grant to p10 at 07:08:47
+p14 is doing local computation at 07:08:47
+p14 requests to enter CS at 07:08:48 for 3 time
+Leader l14 recieves release from p10 at 07:08:48
+Leader l14 sends grant to p11 at 07:08:48
+Leader l14 recieves p10's request to enter CS at 07:08:50
+Leader l14 recieves release from p11 at 07:08:53
+Leader l14 sends grant to p12 at 07:08:53
+Leader l14 recieves p11's request to enter CS at 07:08:55
+Leader l14 recieves release from p12 at 07:08:55
+Leader l14 sends grant to p13 at 07:08:55
+Leader l14 recieves release from p13 at 07:08:56
+p14 sends token to p19 at 07:08:56
+p14 forwarded p11's request to enter CS at 07:08:56
+Leader l14 recieves p12's request to enter CS at 07:08:57
+Leader l14 recieves p13's request to enter CS at 07:08:59
+p14 recieves token from p19 at 07:09:26
+p14 sends token to p9 at 07:09:26
+p14 recieves p19's request to enter CS at 07:09:26
+p14 recieves token from p9 at 07:09:50
+p14 enters CS at 07:09:50
+p14 recieves p9's request to enter CS at 07:09:50
+p14 leaves CS at 07:09:55
+Leader l14 sends grant to p10 at 07:09:55
+p14 is doing local computation at 07:09:55
+p14 requests to enter CS at 07:09:56 for 4 time
+Leader l14 recieves release from p10 at 07:09:57
+Leader l14 sends grant to p11 at 07:09:57
+Leader l14 recieves p10's request to enter CS at 07:09:58
+Leader l14 recieves release from p11 at 07:10:02
+Leader l14 sends grant to p12 at 07:10:02
+Leader l14 recieves p11's request to enter CS at 07:10:03
+Leader l14 recieves release from p12 at 07:10:04
+Leader l14 sends grant to p13 at 07:10:04
+Leader l14 recieves p12's request to enter CS at 07:10:05
+Leader l14 recieves release from p13 at 07:10:06
+p14 sends token to p19 at 07:10:06
+p14 forwarded p12's request to enter CS at 07:10:06
+p14 recieves token from p19 at 07:10:29
+p14 sends token to p9 at 07:10:29
+p14 recieves p19's request to enter CS at 07:10:29
+p14 recieves token from p9 at 07:10:51
+p14 enters CS at 07:10:51
+p14 leaves CS at 07:10:54
+Leader l14 sends grant to p10 at 07:10:54
+Leader l14 recieves release from p10 at 07:10:59
+Leader l14 sends grant to p11 at 07:10:59
+Leader l14 recieves release from p11 at 07:11:04
+Leader l14 sends grant to p12 at 07:11:04
+Leader l14 recieves release from p12 at 07:11:06
+p14 sends token to p19 at 07:11:06
+Messages exchanged by p14 is 57.
+Average Reponse time of p14 is 9.88 secs.
+
+
+p15 is doing local computation at 07:06:28
+p15 requests to enter CS at 07:06:31 for 1 time
+p15 recieves grant from l19 at 07:07:45
+p15 enters CS at 07:07:45
+p15 leaves CS at 07:07:50
+p15 sends release to p19 at 07:07:50
+p15 is doing local computation at 07:07:50
+p15 requests to enter CS at 07:07:51 for 2 time
+p15 recieves grant from l19 at 07:08:56
+p15 enters CS at 07:08:56
+p15 leaves CS at 07:08:59
+p15 sends release to p19 at 07:08:59
+p15 is doing local computation at 07:08:59
+p15 requests to enter CS at 07:09:02 for 3 time
+p15 recieves grant from l19 at 07:10:06
+p15 enters CS at 07:10:06
+p15 leaves CS at 07:10:09
+p15 sends release to p19 at 07:10:09
+p15 is doing local computation at 07:10:09
+p15 requests to enter CS at 07:10:10 for 4 time
+p15 recieves grant from l19 at 07:11:06
+p15 enters CS at 07:11:06
+p15 leaves CS at 07:11:09
+p15 sends release to p19 at 07:11:09
+Messages exchanged by p15 is 32.
+Average Reponse time of p15 is 10.68 secs.
+
+
+p16 is doing local computation at 07:06:28
+p16 requests to enter CS at 07:06:30 for 1 time
+p16 recieves grant from l19 at 07:06:50
+p16 enters CS at 07:06:50
+p16 leaves CS at 07:06:52
+p16 sends release to p19 at 07:06:52
+p16 is doing local computation at 07:06:52
+p16 requests to enter CS at 07:06:54 for 2 time
+p16 recieves grant from l19 at 07:08:11
+p16 enters CS at 07:08:11
+p16 leaves CS at 07:08:15
+p16 sends release to p19 at 07:08:15
+p16 is doing local computation at 07:08:15
+p16 requests to enter CS at 07:08:17 for 3 time
+p16 recieves grant from l19 at 07:09:23
+p16 enters CS at 07:09:23
+p16 leaves CS at 07:09:26
+p16 sends release to p19 at 07:09:26
+p16 is doing local computation at 07:09:26
+p16 requests to enter CS at 07:09:27 for 4 time
+p16 recieves grant from l19 at 07:10:26
+p16 enters CS at 07:10:26
+p16 leaves CS at 07:10:29
+p16 sends release to p19 at 07:10:29
+Messages exchanged by p16 is 32.
+Average Reponse time of p16 is 9.16 secs.
+
+
+p17 is doing local computation at 07:06:28
+p17 requests to enter CS at 07:06:30 for 1 time
+p17 recieves grant from l19 at 07:06:49
+p17 enters CS at 07:06:49
+p17 leaves CS at 07:06:50
+p17 sends release to p19 at 07:06:50
+p17 is doing local computation at 07:06:50
+p17 requests to enter CS at 07:06:53 for 2 time
+p17 recieves grant from l19 at 07:08:10
+p17 enters CS at 07:08:10
+p17 leaves CS at 07:08:11
+p17 sends release to p19 at 07:08:11
+p17 is doing local computation at 07:08:11
+p17 requests to enter CS at 07:08:13 for 3 time
+p17 recieves grant from l19 at 07:09:20
+p17 enters CS at 07:09:20
+p17 leaves CS at 07:09:23
+p17 sends release to p19 at 07:09:23
+p17 is doing local computation at 07:09:23
+p17 requests to enter CS at 07:09:25 for 4 time
+p17 recieves grant from l19 at 07:10:25
+p17 enters CS at 07:10:25
+p17 leaves CS at 07:10:26
+p17 sends release to p19 at 07:10:26
+Messages exchanged by p17 is 32.
+Average Reponse time of p17 is 9.28 secs.
+
+
+p18 is doing local computation at 07:06:28
+p18 requests to enter CS at 07:06:29 for 1 time
+p18 recieves grant from l19 at 07:06:34
+p18 enters CS at 07:06:34
+p18 leaves CS at 07:06:35
+p18 sends release to p19 at 07:06:35
+p18 is doing local computation at 07:06:35
+p18 requests to enter CS at 07:06:36 for 2 time
+p18 recieves grant from l19 at 07:07:52
+p18 enters CS at 07:07:52
+p18 leaves CS at 07:07:56
+p18 sends release to p19 at 07:07:56
+p18 is doing local computation at 07:07:56
+p18 requests to enter CS at 07:07:57 for 3 time
+p18 recieves grant from l19 at 07:09:04
+p18 enters CS at 07:09:04
+p18 leaves CS at 07:09:06
+p18 sends release to p19 at 07:09:06
+p18 is doing local computation at 07:09:06
+p18 requests to enter CS at 07:09:07 for 4 time
+p18 recieves grant from l19 at 07:10:11
+p18 enters CS at 07:10:11
+p18 leaves CS at 07:10:13
+p18 sends release to p19 at 07:10:13
+Messages exchanged by p18 is 32.
+Average Reponse time of p18 is 8.64 secs.
+
+
+p19 is doing local computation at 07:06:28
+p19 requests to enter CS at 07:06:29 for 1 time
+Leader l19 recieves p18's request to enter CS at 07:06:29
+p19 recieves p24's request to enter CS at 07:06:29
+Leader l19 recieves p17's request to enter CS at 07:06:30
+Leader l19 recieves p16's request to enter CS at 07:06:30
+p19 recieves token from p14 at 07:06:30
+p19 enters CS at 07:06:30
+p19 recieves p14's request to enter CS at 07:06:30
+Leader l19 recieves p15's request to enter CS at 07:06:31
+p19 leaves CS at 07:06:34
+Leader l19 sends grant to p18 at 07:06:34
+p19 is doing local computation at 07:06:34
+p19 requests to enter CS at 07:06:35 for 2 time
+Leader l19 recieves release from p18 at 07:06:35
+p19 sends token to p24 at 07:06:35
+p19 forwarded p15's request to enter CS at 07:06:35
+Leader l19 recieves p18's request to enter CS at 07:06:36
+p19 recieves token from p24 at 07:06:49
+Leader l19 sends grant to p17 at 07:06:49
+p19 recieves p24's request to enter CS at 07:06:49
+Leader l19 recieves release from p17 at 07:06:50
+Leader l19 sends grant to p16 at 07:06:50
+Leader l19 recieves release from p16 at 07:06:52
+p19 sends token to p14 at 07:06:52
+p19 forwarded p24's request to enter CS at 07:06:52
+Leader l19 recieves p17's request to enter CS at 07:06:53
+Leader l19 recieves p16's request to enter CS at 07:06:54
+p19 recieves token from p14 at 07:07:45
+Leader l19 sends grant to p15 at 07:07:45
+p19 recieves p14's request to enter CS at 07:07:45
+Leader l19 recieves release from p15 at 07:07:50
+p19 enters CS at 07:07:50
+Leader l19 recieves p15's request to enter CS at 07:07:51
+p19 leaves CS at 07:07:52
+Leader l19 sends grant to p18 at 07:07:52
+p19 is doing local computation at 07:07:52
+p19 requests to enter CS at 07:07:55 for 3 time
+Leader l19 recieves release from p18 at 07:07:56
+p19 sends token to p24 at 07:07:56
+p19 forwarded p15's request to enter CS at 07:07:56
+Leader l19 recieves p18's request to enter CS at 07:07:57
+p19 recieves token from p24 at 07:08:10
+Leader l19 sends grant to p17 at 07:08:10
+p19 recieves p24's request to enter CS at 07:08:10
+Leader l19 recieves release from p17 at 07:08:11
+Leader l19 sends grant to p16 at 07:08:11
+Leader l19 recieves p17's request to enter CS at 07:08:13
+Leader l19 recieves release from p16 at 07:08:15
+p19 sends token to p14 at 07:08:15
+p19 forwarded p17's request to enter CS at 07:08:15
+Leader l19 recieves p16's request to enter CS at 07:08:17
+p19 recieves token from p14 at 07:08:56
+Leader l19 sends grant to p15 at 07:08:56
+p19 recieves p14's request to enter CS at 07:08:56
+Leader l19 recieves release from p15 at 07:08:59
+p19 enters CS at 07:08:59
+Leader l19 recieves p15's request to enter CS at 07:09:02
+p19 leaves CS at 07:09:04
+Leader l19 sends grant to p18 at 07:09:04
+p19 is doing local computation at 07:09:04
+p19 requests to enter CS at 07:09:05 for 4 time
+Leader l19 recieves release from p18 at 07:09:06
+p19 sends token to p24 at 07:09:06
+p19 forwarded p15's request to enter CS at 07:09:06
+Leader l19 recieves p18's request to enter CS at 07:09:07
+p19 recieves token from p24 at 07:09:20
+Leader l19 sends grant to p17 at 07:09:20
+p19 recieves p24's request to enter CS at 07:09:20
+Leader l19 recieves release from p17 at 07:09:23
+Leader l19 sends grant to p16 at 07:09:23
+Leader l19 recieves p17's request to enter CS at 07:09:25
+Leader l19 recieves release from p16 at 07:09:26
+p19 sends token to p14 at 07:09:26
+p19 forwarded p17's request to enter CS at 07:09:26
+Leader l19 recieves p16's request to enter CS at 07:09:27
+p19 recieves token from p14 at 07:10:06
+Leader l19 sends grant to p15 at 07:10:06
+p19 recieves p14's request to enter CS at 07:10:06
+Leader l19 recieves release from p15 at 07:10:09
+p19 enters CS at 07:10:09
+Leader l19 recieves p15's request to enter CS at 07:10:10
+p19 leaves CS at 07:10:11
+Leader l19 sends grant to p18 at 07:10:11
+Leader l19 recieves release from p18 at 07:10:13
+p19 sends token to p24 at 07:10:13
+p19 forwarded p15's request to enter CS at 07:10:13
+p19 recieves token from p24 at 07:10:25
+Leader l19 sends grant to p17 at 07:10:25
+Leader l19 recieves release from p17 at 07:10:26
+Leader l19 sends grant to p16 at 07:10:26
+Leader l19 recieves release from p16 at 07:10:29
+p19 sends token to p14 at 07:10:29
+p19 forwarded p17's request to enter CS at 07:10:29
+p19 recieves token from p14 at 07:11:06
+Leader l19 sends grant to p15 at 07:11:06
+Leader l19 recieves release from p15 at 07:11:09
+Messages exchanged by p19 is 57.
+Average Reponse time of p19 is 8.40 secs.
+
+
+p20 is doing local computation at 07:06:28
+p20 requests to enter CS at 07:06:29 for 1 time
+p20 recieves grant from l24 at 07:06:38
+p20 enters CS at 07:06:38
+p20 leaves CS at 07:06:42
+p20 sends release to p24 at 07:06:42
+p20 is doing local computation at 07:06:42
+p20 requests to enter CS at 07:06:45 for 2 time
+p20 recieves grant from l24 at 07:08:01
+p20 enters CS at 07:08:01
+p20 leaves CS at 07:08:02
+p20 sends release to p24 at 07:08:02
+p20 is doing local computation at 07:08:02
+p20 requests to enter CS at 07:08:04 for 3 time
+p20 recieves grant from l24 at 07:09:07
+p20 enters CS at 07:09:07
+p20 leaves CS at 07:09:11
+p20 sends release to p24 at 07:09:11
+p20 is doing local computation at 07:09:11
+p20 requests to enter CS at 07:09:13 for 4 time
+p20 recieves grant from l24 at 07:10:15
+p20 enters CS at 07:10:15
+p20 leaves CS at 07:10:16
+p20 sends release to p24 at 07:10:16
+Messages exchanged by p20 is 32.
+Average Reponse time of p20 is 8.72 secs.
+
+
+p21 is doing local computation at 07:06:28
+p21 requests to enter CS at 07:06:31 for 1 time
+p21 recieves grant from l24 at 07:06:44
+p21 enters CS at 07:06:44
+p21 leaves CS at 07:06:49
+p21 sends release to p24 at 07:06:49
+p21 is doing local computation at 07:06:49
+p21 requests to enter CS at 07:06:50 for 2 time
+p21 recieves grant from l24 at 07:08:08
+p21 enters CS at 07:08:08
+p21 leaves CS at 07:08:10
+p21 sends release to p24 at 07:08:10
+p21 is doing local computation at 07:08:10
+p21 requests to enter CS at 07:08:13 for 3 time
+p21 recieves grant from l24 at 07:09:16
+p21 enters CS at 07:09:16
+p21 leaves CS at 07:09:20
+p21 sends release to p24 at 07:09:20
+p21 is doing local computation at 07:09:20
+p21 requests to enter CS at 07:09:23 for 4 time
+p21 recieves grant from l24 at 07:10:24
+p21 enters CS at 07:10:24
+p21 leaves CS at 07:10:25
+p21 sends release to p24 at 07:10:25
+Messages exchanged by p21 is 32.
+Average Reponse time of p21 is 9.00 secs.
+
+
+p22 is doing local computation at 07:06:28
+p22 requests to enter CS at 07:06:30 for 1 time
+p22 recieves grant from l24 at 07:06:42
+p22 enters CS at 07:06:42
+p22 leaves CS at 07:06:43
+p22 sends release to p24 at 07:06:43
+p22 is doing local computation at 07:06:43
+p22 requests to enter CS at 07:06:45 for 2 time
+p22 recieves grant from l24 at 07:08:02
+p22 enters CS at 07:08:02
+p22 leaves CS at 07:08:07
+p22 sends release to p24 at 07:08:07
+p22 is doing local computation at 07:08:07
+p22 requests to enter CS at 07:08:08 for 3 time
+p22 recieves grant from l24 at 07:09:11
+p22 enters CS at 07:09:11
+p22 leaves CS at 07:09:14
+p22 sends release to p24 at 07:09:14
+p22 is doing local computation at 07:09:14
+p22 requests to enter CS at 07:09:17 for 4 time
+p22 recieves grant from l24 at 07:10:16
+p22 enters CS at 07:10:16
+p22 leaves CS at 07:10:19
+p22 sends release to p24 at 07:10:19
+Messages exchanged by p22 is 32.
+Average Reponse time of p22 is 8.76 secs.
+
+
+p23 is doing local computation at 07:06:28
+p23 requests to enter CS at 07:06:29 for 1 time
+p23 recieves grant from l24 at 07:06:35
+p23 enters CS at 07:06:35
+p23 leaves CS at 07:06:38
+p23 sends release to p24 at 07:06:38
+p23 is doing local computation at 07:06:38
+p23 requests to enter CS at 07:06:40 for 2 time
+p23 recieves grant from l24 at 07:07:56
+p23 enters CS at 07:07:56
+p23 leaves CS at 07:08:01
+p23 sends release to p24 at 07:08:01
+p23 is doing local computation at 07:08:01
+p23 requests to enter CS at 07:08:02 for 3 time
+p23 recieves grant from l24 at 07:09:06
+p23 enters CS at 07:09:06
+p23 leaves CS at 07:09:07
+p23 sends release to p24 at 07:09:07
+p23 is doing local computation at 07:09:07
+p23 requests to enter CS at 07:09:08 for 4 time
+p23 recieves grant from l24 at 07:10:13
+p23 enters CS at 07:10:13
+p23 leaves CS at 07:10:15
+p23 sends release to p24 at 07:10:15
+Messages exchanged by p23 is 32.
+Average Reponse time of p23 is 8.64 secs.
+
+
+p24 is doing local computation at 07:06:28
+Leader l24 recieves p23's request to enter CS at 07:06:29
+p24 forwarded p23's request to enter CS at 07:06:29
+Leader l24 recieves p20's request to enter CS at 07:06:29
+Leader l24 recieves p22's request to enter CS at 07:06:30
+p24 requests to enter CS at 07:06:30 for 1 time
+Leader l24 recieves p21's request to enter CS at 07:06:31
+p24 recieves token from p19 at 07:06:35
+Leader l24 sends grant to p23 at 07:06:35
+p24 recieves p19's request to enter CS at 07:06:35
+Leader l24 recieves release from p23 at 07:06:38
+Leader l24 sends grant to p20 at 07:06:38
+Leader l24 recieves p23's request to enter CS at 07:06:40
+Leader l24 recieves release from p20 at 07:06:42
+Leader l24 sends grant to p22 at 07:06:42
+Leader l24 recieves release from p22 at 07:06:43
+p24 enters CS at 07:06:43
+p24 leaves CS at 07:06:44
+Leader l24 sends grant to p21 at 07:06:44
+p24 is doing local computation at 07:06:44
+Leader l24 recieves p20's request to enter CS at 07:06:45
+Leader l24 recieves p22's request to enter CS at 07:06:45
+p24 requests to enter CS at 07:06:46 for 2 time
+Leader l24 recieves release from p21 at 07:06:49
+p24 sends token to p19 at 07:06:49
+p24 forwarded p22's request to enter CS at 07:06:49
+Leader l24 recieves p21's request to enter CS at 07:06:50
+p24 recieves token from p19 at 07:07:56
+Leader l24 sends grant to p23 at 07:07:56
+p24 recieves p19's request to enter CS at 07:07:56
+Leader l24 recieves release from p23 at 07:08:01
+Leader l24 sends grant to p20 at 07:08:01
+Leader l24 recieves p23's request to enter CS at 07:08:02
+Leader l24 recieves release from p20 at 07:08:02
+Leader l24 sends grant to p22 at 07:08:02
+Leader l24 recieves p20's request to enter CS at 07:08:04
+Leader l24 recieves release from p22 at 07:08:07
+p24 enters CS at 07:08:07
+p24 leaves CS at 07:08:08
+Leader l24 sends grant to p21 at 07:08:08
+p24 is doing local computation at 07:08:08
+Leader l24 recieves p22's request to enter CS at 07:08:08
+Leader l24 recieves release from p21 at 07:08:10
+p24 sends token to p19 at 07:08:10
+p24 forwarded p22's request to enter CS at 07:08:10
+p24 requests to enter CS at 07:08:11 for 3 time
+Leader l24 recieves p21's request to enter CS at 07:08:13
+p24 recieves token from p19 at 07:09:06
+Leader l24 sends grant to p23 at 07:09:06
+p24 recieves p19's request to enter CS at 07:09:06
+Leader l24 recieves release from p23 at 07:09:07
+Leader l24 sends grant to p20 at 07:09:07
+Leader l24 recieves p23's request to enter CS at 07:09:08
+Leader l24 recieves release from p20 at 07:09:11
+Leader l24 sends grant to p22 at 07:09:11
+Leader l24 recieves p20's request to enter CS at 07:09:13
+Leader l24 recieves release from p22 at 07:09:14
+p24 enters CS at 07:09:14
+p24 leaves CS at 07:09:16
+Leader l24 sends grant to p21 at 07:09:16
+p24 is doing local computation at 07:09:16
+Leader l24 recieves p22's request to enter CS at 07:09:17
+p24 requests to enter CS at 07:09:19 for 4 time
+Leader l24 recieves release from p21 at 07:09:20
+p24 sends token to p19 at 07:09:20
+p24 forwarded p22's request to enter CS at 07:09:20
+Leader l24 recieves p21's request to enter CS at 07:09:23
+p24 recieves token from p19 at 07:10:13
+Leader l24 sends grant to p23 at 07:10:13
+p24 recieves p19's request to enter CS at 07:10:13
+Leader l24 recieves release from p23 at 07:10:15
+Leader l24 sends grant to p20 at 07:10:15
+Leader l24 recieves release from p20 at 07:10:16
+Leader l24 sends grant to p22 at 07:10:16
+Leader l24 recieves release from p22 at 07:10:19
+p24 enters CS at 07:10:19
+p24 leaves CS at 07:10:24
+Leader l24 sends grant to p21 at 07:10:24
+Leader l24 recieves release from p21 at 07:10:25
+p24 sends token to p19 at 07:10:25
+Messages exchanged by p24 is 48.
+Average Reponse time of p24 is 8.84 secs.
+
+Average Message Complexity in System is 36.24
+Average Response Time in System is 9.464secs.
